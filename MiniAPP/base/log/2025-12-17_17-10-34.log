@@ -1,0 +1,16 @@
+2025-12-17 17:10:42 | DEBUG    | __main__:home:116 - add http log success
+2025-12-17 17:10:42 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-12-17 17:10:43 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-12-17 17:10:43 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-12-17 17:10:43 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-12-17 17:11:04 | INFO     | __main__:home:140 - 添加小程序 代码调试 9826e6f9d6df4e5397b86a37bdb3c2db
+2025-12-17 17:11:09 | INFO     | __main__:home:140 - 小程序启动
+2025-12-17 17:11:09 | INFO     | __main__:home:140 - 启动程序 代码调试
+2025-12-17 17:11:09 | WARNING  | __main__:home:149 - file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:16-->Warning: file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:16:9: QML QQuickRectangle: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2025-12-17 17:11:09 | WARNING  | __main__:home:149 - file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:32-->Warning: file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:32:9: QML Button: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2025-12-17 17:11:09 | WARNING  | __main__:home:149 - file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:50-->Warning: file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:50:9: QML Button: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2025-12-17 17:11:09 | WARNING  | __main__:home:149 - file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:75-->Warning: file:///I:/Program/PySide6App/rostart/child/9826e6f9d6df4e5397b86a37bdb3c2db/main.qml:75:9: QML Button: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2025-12-17 17:11:10 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-12-17 17:11:11 | INFO     | __main__:home:140 - 小程序启动
+2025-12-17 17:11:11 | INFO     | __main__:home:140 - 启动程序 基础模板
+2025-12-17 17:11:13 | INFO     | __main__:home:140 - 启动程序 RO启动器

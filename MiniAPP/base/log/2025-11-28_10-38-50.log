@@ -1,0 +1,713 @@
+2025-11-28 10:39:00 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 10:39:00 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 10:46:17 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 10:46:17 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 10:57:04 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 10:57:04 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 10:58:39 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 10:58:39 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 10:58:42 | INFO     | __main__:home:140 - file:///data/data/org.randorange.rostart/files/app/qml/Four.qml:117-->Info: 下载代码完成 0
+2025-11-28 10:58:42 | INFO     | __main__:home:140 - 添加小程序 RO浏览器 17a8dd5e958e43b181a59ba17e504627
+2025-11-28 10:58:45 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 10:58:45 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 10:58:46 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 10:58:46 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 10:58:46 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 10:58:46 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 10:59:07 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 10:59:07 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 10:59:10 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 10:59:10 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 10:59:11 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 10:59:11 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 10:59:11 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 10:59:11 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 11:05:13 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:05:13 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:05:13 | ERROR    | __main__:home:158 - 错误：QML组件加载失败
+2025-11-28 11:05:13 | ERROR    | __main__:home:158 - file:///I:/Program/PySide6App/MiniAPP/src-webview/src/main.qml:29 WebView is not a type
+
+2025-11-28 11:08:57 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:08:57 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:08:58 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:09:05 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:09:05 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:09:06 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 11:09:06 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 11:09:06 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 11:09:06 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 11:09:56 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:09:56 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:09:58 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:09:58 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:09:59 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 11:09:59 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 11:09:59 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 11:09:59 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 11:10:06 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:10:06 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:10:08 | INFO     | __main__:home:140 - file:///data/data/org.randorange.rostart/files/app/qml/Four.qml:117-->Info: 下载代码完成 0
+2025-11-28 11:10:08 | INFO     | __main__:home:140 - 添加小程序 RO浏览器 17a8dd5e958e43b181a59ba17e504627
+2025-11-28 11:10:10 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:10:10 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:10:10 | ERROR    | __main__:home:158 - 错误：QML组件加载失败
+2025-11-28 11:10:10 | ERROR    | __main__:home:158 - file:///data/data/org.randorange.rostart/files/child/17a8dd5e958e43b181a59ba17e504627/main.qml:29 WebView is not a type
+
+2025-11-28 11:10:25 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:10:25 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:10:28 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:10:28 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:10:28 | ERROR    | __main__:home:158 - 错误：QML组件加载失败
+2025-11-28 11:10:28 | ERROR    | __main__:home:158 - file:///data/data/org.randorange.rostart/files/child/17a8dd5e958e43b181a59ba17e504627/main.qml:29 WebView is not a type
+
+2025-11-28 11:10:31 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:10:31 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:10:33 | INFO     | __main__:home:140 - file:///data/data/org.randorange.rostart/files/app/qml/Four.qml:117-->Info: 下载代码完成 0
+2025-11-28 11:10:33 | INFO     | __main__:home:140 - 添加小程序 RO浏览器 17a8dd5e958e43b181a59ba17e504627
+2025-11-28 11:10:35 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:10:35 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:10:39 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 11:10:39 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 11:10:39 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 11:10:39 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 11:12:46 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:12:46 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:12:48 | INFO     | __main__:home:140 - file:///data/data/org.randorange.rostart/files/app/qml/Four.qml:117-->Info: 下载代码完成 0
+2025-11-28 11:12:48 | INFO     | __main__:home:140 - 添加小程序 RO浏览器 17a8dd5e958e43b181a59ba17e504627
+2025-11-28 11:12:50 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:12:50 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:12:53 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 11:12:53 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 11:12:53 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 11:12:53 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 11:14:44 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:14:44 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:14:45 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:14:49 | INFO     | __main__:home:140 - file:///data/data/org.randorange.rostart/files/app/qml/Four.qml:117-->Info: 下载代码完成 0
+2025-11-28 11:14:49 | INFO     | __main__:home:140 - 添加小程序 RO浏览器 17a8dd5e958e43b181a59ba17e504627
+2025-11-28 11:14:51 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:14:51 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:14:52 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 11:14:52 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 11:14:52 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 11:14:52 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 11:15:10 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:15:10 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:15:11 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:15:11 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:15:12 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 11:15:12 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 11:15:12 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 11:15:12 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 11:15:33 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROStarte1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 APP四界面  {'id': 'ROStart978dc4379bc8622a42c93e3b2', 'name': 'APP四界面', 'author': 'ROrange', 'description': '主流APP，四界面切换模板', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 UI控件模板  {'id': 'ROStart6627347dd9bd1b63408c487db', 'name': 'UI控件模板', 'author': 'ROrange', 'description': '模板-使用FluentUI界面框架', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 添加小程序 RO浏览器  {'id': '17a8dd5e958e43b181a59ba17e504627', 'name': 'RO浏览器', 'author': 'ROrange', 'description': '示例-可以固定的打开某个网站', 'version': '1.0', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 11:15:33 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 11:15:34 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:15:34 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 11:15:35 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 11:15:36 | INFO     | __main__:home:140 - 启动程序 RO浏览器
+2025-11-28 11:15:37 | INFO     | __main__:home:140 - WebView created successfully in UI thread
+2025-11-28 11:15:37 | WARNING  | __main__:home:149 - None:0-->Warning: makeCurrent(): no EGLSurface, likely Surface destroyed by Android.
+2025-11-28 11:15:37 | WARNING  | __main__:home:149 - None:0-->Warning: QRhiGles2: Failed to make context current. Expect bad things to happen.
+2025-11-28 11:15:37 | WARNING  | __main__:home:149 - None:0-->Warning: Failed to start frame
+2025-11-28 16:05:10 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 16:05:10 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 16:06:18 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 16:06:18 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 16:20:36 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 16:20:36 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 16:20:36 | DEBUG    | __main__:home:131 - get data 你是一个AI助手
+2025-11-28 16:20:36 | DEBUG    | __main__:home:131 - get data 你是一个AI助手
+2025-11-28 16:20:53 | DEBUG    | __main__:home:131 - user msg: python开发程序
+2025-11-28 16:20:53 | DEBUG    | __main__:home:131 - system prompt: 你是一个AI助手
+2025-11-28 16:20:54 | DEBUG    | __main__:home:131 - url https://api.deepseek.com/v1/chat/completions
+2025-11-28 16:20:54 | DEBUG    | __main__:home:131 - apikey sk-2086390449c5466ebe818d2282d3f9b3
+2025-11-28 16:20:54 | DEBUG    | __main__:home:131 - modelname deepseek-chat
+2025-11-28 16:20:54 | DEBUG    | __main__:home:131 - systemPrompt 你是一个AI助手
+2025-11-28 16:20:54 | DEBUG    | __main__:home:131 - userMsg python开发程序
+2025-11-28 16:21:15 | DEBUG    | __main__:home:131 - file:///I:/Program/PySide6App/MiniAPP/src-transport/src/main.qml:96-->Debug: 左设置
+2025-11-28 16:21:22 | ERROR    | __main__:home:158 - None:0-->Fatal: QThread: Destroyed while thread is still running
+2025-11-28 16:22:30 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 16:22:30 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 16:22:30 | DEBUG    | __main__:home:131 - get data 你是一个AI助手
+2025-11-28 16:22:30 | DEBUG    | __main__:home:131 - get data 你是一个AI助手
+2025-11-28 16:22:32 | DEBUG    | __main__:home:131 - file:///I:/Program/PySide6App/MiniAPP/src-transport/src/main.qml:102-->Debug: 左设置
+2025-11-28 16:22:36 | WARNING  | __main__:home:149 - file:///I:/Program/PySide6App/MiniAPP/src-transport/src/main.qml:144-->Warning: file:///I:/Program/PySide6App/MiniAPP/src-transport/src/main.qml:144: TypeError: Cannot read property 'airesult' of null
+2025-11-28 16:22:50 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 16:22:50 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 16:22:50 | ERROR    | __main__:home:158 - 错误：QML组件加载失败
+2025-11-28 16:22:50 | ERROR    | __main__:home:158 - file:///I:/Program/PySide6App/MiniAPP/src-transport/src/main.qml:73 Expected token `:'
+
+2025-11-28 16:23:14 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 16:23:14 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 16:23:14 | DEBUG    | __main__:home:131 - get data 你是一个AI助手
+2025-11-28 16:23:14 | DEBUG    | __main__:home:131 - get data 你是一个AI助手
+2025-11-28 16:23:17 | DEBUG    | __main__:home:131 - file:///I:/Program/PySide6App/MiniAPP/src-transport/src/main.qml:104-->Debug: 左设置
+2025-11-28 16:23:19 | DEBUG    | __main__:home:131 - file:///I:/Program/PySide6App/MiniAPP/src-transport/src/main.qml:104-->Debug: 左设置
+2025-11-28 16:23:27 | DEBUG    | __main__:home:131 - user msg: 讲个笑话
+2025-11-28 16:23:27 | DEBUG    | __main__:home:131 - system prompt: 你是一个AI助手
+2025-11-28 16:23:27 | DEBUG    | __main__:home:131 - url https://api.deepseek.com/v1/chat/completions
+2025-11-28 16:23:27 | DEBUG    | __main__:home:131 - apikey sk-2086390449c5466ebe818d2282d3f9b3
+2025-11-28 16:23:27 | DEBUG    | __main__:home:131 - modelname deepseek-chat
+2025-11-28 16:23:27 | DEBUG    | __main__:home:131 - systemPrompt 你是一个AI助手
+2025-11-28 16:23:27 | DEBUG    | __main__:home:131 - userMsg 讲个笑话
+2025-11-28 16:23:31 | DEBUG    | __main__:home:131 - {"id":"14b9c30e-56a7-4ed1-b043-cd2541837463","object":"chat.completion","created":1764318207,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"好的，这里有一个轻松的笑话：\n\n**病人**：医生，我最近总是觉得自己像一只蚊子。  \n**医生**：那听起来很严重，你什么时候开始有这种感觉的？  \n**病人**：每次我脱衣服的时候。  \n**医生**：为什么脱衣服的时候？  \n**病人**：因为我一脱衣服，我老婆就会拍手大喊：“打蚊子！”\n\n希望这个笑话能让你笑一笑！😄"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":11,"completion_tokens":90,"total_tokens":101,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":11},"system_fingerprint":"fp_ffc7281d48_prod0820_fp8_kvcache"}
+2025-11-28 16:23:31 | WARNING  | __main__:home:149 - 好的，这里有一个轻松的笑话：
+
+**病人**：医生，我最近总是觉得自己像一只蚊子。  
+**医生**：那听起来很严重，你什么时候开始有这种感觉的？  
+**病人**：每次我脱衣服的时候。  
+**医生**：为什么脱衣服的时候？  
+**病人**：因为我一脱衣服，我老婆就会拍手大喊：“打蚊子！”
+
+希望这个笑话能让你笑一笑！😄
+2025-11-28 16:23:31 | DEBUG    | __main__:home:131 - ai out 好的，这里有一个轻松的笑话：
+
+**病人**：医生，我最近总是觉得自己像一只蚊子。  
+**医生**：那听起来很严重，你什么时候开始有这种感觉的？  
+**病人**：每次我脱衣服的时候。  
+**医生**：为什么脱衣服的时候？  
+**病人**：因为我一脱衣服，我老婆就会拍手大喊：“打蚊子！”
+
+希望这个笑话能让你笑一笑！😄
+2025-11-28 16:29:24 | WARNING  | __main__:home:149 - None:0-->Warning: Retrying to obtain clipboard.
+2025-11-28 16:32:26 | WARNING  | __main__:home:149 - None:0-->Warning: Retrying to obtain clipboard.
+2025-11-28 16:32:48 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 16:32:48 | INFO     | __main__:home:140 - PySide6 Version 6.8.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - None:0-->Debug: Load the resource 'FluentUI.imports.resource_rc'
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - None:0-->Debug: FT_New_Face failed with index 0 : 2
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - None:0-->Debug: FT_New_Face failed with index 0 : 2
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - None:0-->Debug: FT_New_Face failed with index 0 : 2
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - None:0-->Debug: FT_New_Face failed with index 0 : 2
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - None:0-->Debug: FT_New_Face failed with index 0 : 2
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 安卓功能操作  {'id': 'ROStartd5f1c4a13b8b7b16530a521fa', 'name': '安卓功能操作', 'author': 'ROrange', 'description': 'PyToJava测试示例', 'version': '1.2', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 翻译助手  {'id': 'ROStartadfb548c2b0657288330ef3f2', 'name': '翻译助手', 'author': 'ROrange', 'description': '调用AI进行中英文互译', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 基础模板  {'id': 'ROStart123154512a5ada6090de92ee1', 'name': '基础模板', 'author': 'ROrange', 'description': '模板-小程序基础模板', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 UI后端模板  {'id': 'ROStart26e4a41b0bbf0f4b0dead18eb', 'name': 'UI后端模板', 'author': 'ROrange', 'description': '模板-支持FluentUI界面库，及Py后端', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 BLE开发  {'id': 'ROStart2dbde45369d11afb921c6c71f', 'name': 'BLE开发', 'author': 'ROrange', 'description': '低功耗蓝牙操作程序', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 相机示例  {'id': 'ROrangee1bd14c3d9a937a2dedc9ca2e', 'name': '相机示例', 'author': 'ROrange', 'description': '支持显示相机中的画面', 'version': '1.1', 'logo': 'logo.png', 'widget': 'PySide6-QML'}
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 添加小程序 代码调试  {'id': '9826e6f9d6df4e5397b86a37bdb3c2db', 'name': '代码调试', 'version': '1.0', 'logo': 'logo.png', 'widget': 'pyside6-qml'}
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - Flask==2.0.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - Jinja2==3.1.6
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - MarkupSafe==3.0.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - PySide6-FluentUI-QML==1.6.7
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - PySide6==6.8.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - PyToJava==1.3.2
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - PyYAML==6.0.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - Werkzeug==2.3.7
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - certifi==2025.10.5
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - cffi==1.15.1
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - charset-normalizer==3.4.4
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - click==8.3.1
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - idna==3.11
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - itsdangerous==2.2.0
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - keyboard==0.13.5
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - loguru==0.7.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - pillow==10.3.0
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - pip==25.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - plyer==2.1.0
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - pycparser==2.14
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - pyjnius==1.6.1
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - pyzipper==0.3.6
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - qrcode==8.2
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - requests==2.32.5
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - setuptools==69.2.0
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - shiboken6==6.8.3
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - urllib3==2.5.0
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - setWindowName RRRROOOORRRRAAAANNNNGGGGEEEE5555
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/InfoPage.qml:166-->Debug: [192.168.10.20:54444,192.168.10.20:50020]
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/InfoPage.qml:121-->Debug: 日志服务IP已经改变 192.168.10.20:54444
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - ['192.168.10.20:54444', None]
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/InfoPage.qml:144-->Debug: 文件服务IP已经改变 192.168.10.20:50020
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - [None, '192.168.10.20:50020']
+2025-11-28 16:32:49 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/Desktop.qml:116-->Debug: popup load success
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - getURLData: http://47.104.132.212:5006/api/appinfo
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - 状态码: 200
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - 响应头: [('date', 'Fri, 28 Nov 2025 08:32:48 GMT'), ('server', 'uvicorn'), ('content-length', '2522'), ('content-type', 'application/json')]
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - 解析后的 JSON 数据:
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - {
+  "code": 0,
+  "message": "成功",
+  "data": [
+    {
+      "id": "ROStart123154512a5ada6090de92ee1",
+      "name": "基础模板",
+      "author": "ROrange",
+      "description": "模板-小程序基础模板",
+      "version": "1.2",
+      "logo": "/static/ROStart123154512a5ada6090de92ee1/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart123154512a5ada6090de92ee1"
+    },
+    {
+      "id": "ROStart26e4a41b0bbf0f4b0dead18eb",
+      "name": "UI后端模板",
+      "author": "ROrange",
+      "description": "模板-支持FluentUI界面库，及Py后端",
+      "version": "1.2",
+      "logo": "/static/ROStart26e4a41b0bbf0f4b0dead18eb/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart26e4a41b0bbf0f4b0dead18eb"
+    },
+    {
+      "id": "ROStart6627347dd9bd1b63408c487db",
+      "name": "UI控件模板",
+      "author": "ROrange",
+      "description": "模板-使用FluentUI界面框架",
+      "version": "1.2",
+      "logo": "/static/ROStart6627347dd9bd1b63408c487db/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart6627347dd9bd1b63408c487db"
+    },
+    {
+      "id": "ROStart978dc4379bc8622a42c93e3b2",
+      "name": "APP四界面",
+      "author": "ROrange",
+      "description": "主流APP，四界面切换模板",
+      "version": "1.2",
+      "logo": "/static/ROStart978dc4379bc8622a42c93e3b2/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart978dc4379bc8622a42c93e3b2"
+    },
+    {
+      "id": "ROStarte1bd14c3d9a937a2dedc9ca2e",
+      "name": "相机示例",
+      "author": "ROrange",
+      "description": "支持显示相机中的画面",
+      "version": "1.1",
+      "logo": "/static/ROStarte1bd14c3d9a937a2dedc9ca2e/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStarte1bd14c3d9a937a2dedc9ca2e"
+    },
+    {
+      "id": "ROStartadfb548c2b0657288330ef3f2",
+      "name": "后端模板",
+      "author": "ROrange",
+      "description": "模板-支持Py后端",
+      "version": "1.1",
+      "logo": "/static/ROStartadfb548c2b0657288330ef3f2/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStartadfb548c2b0657288330ef3f2"
+    },
+    {
+      "id": "ROStart2dbde45369d11afb921c6c71f",
+      "name": "BLE开发",
+      "author": "ROrange",
+      "description": "低功耗蓝牙操作程序",
+      "version": "1.1",
+      "logo": "/static/ROStart2dbde45369d11afb921c6c71f/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart2dbde45369d11afb921c6c71f"
+    },
+    {
+      "id": "ROStartd5f1c4a13b8b7b16530a521fa",
+      "name": "安卓功能操作",
+      "author": "ROrange",
+      "description": "PyToJava测试示例",
+      "version": "1.2",
+      "logo": "/static/ROStartd5f1c4a13b8b7b16530a521fa/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStartd5f1c4a13b8b7b16530a521fa"
+    },
+    {
+      "id": "ROStartb893547ebb326872a6e8364b7",
+      "name": "标题栏模板",
+      "author": "ROrange",
+      "description": "主页上面有标题栏的示例",
+      "version": "1.2",
+      "logo": "/static/ROStartb893547ebb326872a6e8364b7/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStartb893547ebb326872a6e8364b7"
+    }
+  ]
+}
+2025-11-28 16:32:49 | DEBUG    | __main__:home:131 - <class 'dict'>
+2025-11-28 16:32:52 | INFO     | __main__:home:140 - PyToJava小程序
+2025-11-28 16:32:52 | DEBUG    | __main__:home:131 - info {'engine': <PySide6.QtQml.QQmlEngine(0xb400006e783600d0) at 0x6d7a6cf700>, 'component': <PySide6.QtQml.QQmlComponent(0xb400006e783836b0) at 0x6d7a6d9e40>, 'backend': <appsrc.Backend(0xb400006e78383500) at 0x6d7a6db6c0>}
+2025-11-28 16:32:52 | DEBUG    | __main__:home:131 - {'author': 'ROrange', 'description': 'PyToJava测试示例', 'id': 'ROStartd5f1c4a13b8b7b16530a521fa', 'logo': 'logo.png', 'name': '安卓功能操作', 'version': '1.2', 'widget': {'backend': <appsrc.Backend(0xb400006e78383500) at 0x6d7a6db6c0>, 'component': <PySide6.QtQml.QQmlComponent(0xb400006e783836b0) at 0x6d7a6d9e40>, 'engine': <PySide6.QtQml.QQmlEngine(0xb400006e783600d0) at 0x6d7a6cf700>}}
+2025-11-28 16:32:52 | DEBUG    | __main__:home:131 - setWindowName ROStartd5f1c4a13b8b7b16530a521fa
+2025-11-28 16:32:52 | INFO     | __main__:home:140 - 启动程序 安卓功能操作
+2025-11-28 16:32:52 | WARNING  | __main__:home:149 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:17-->Warning: file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:17:9: QML QQuickRectangle: Detected anchors on an item that is managed by a layout. This is undefined behavior; use Layout.alignment instead.
+2025-11-28 16:32:58 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:123-->Debug: 点击测试按钮
+2025-11-28 16:33:02 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:145-->Debug: 点击测试按钮
+2025-11-28 16:33:02 | INFO     | __main__:home:140 - 打开闪光灯
+2025-11-28 16:33:04 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:145-->Debug: 点击测试按钮
+2025-11-28 16:33:04 | INFO     | __main__:home:140 - 打开闪光灯
+2025-11-28 16:33:06 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:145-->Debug: 点击测试按钮
+2025-11-28 16:33:06 | INFO     | __main__:home:140 - 打开闪光灯
+2025-11-28 16:33:11 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:268-->Debug: 点击 toast通知
+2025-11-28 16:33:14 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:268-->Debug: 点击 toast通知
+2025-11-28 16:33:15 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:286-->Debug: 点击 按钮
+2025-11-28 16:33:18 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:286-->Debug: 点击 按钮
+2025-11-28 16:33:27 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:286-->Debug: 点击 按钮
+2025-11-28 16:33:36 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/child/ROStartd5f1c4a13b8b7b16530a521fa/main.qml:327-->Debug: 点击退出按钮
+2025-11-28 16:33:36 | DEBUG    | __main__:home:131 - setWindowName RRRROOOORRRRAAAANNNNGGGGEEEE5555
+2025-11-28 16:33:36 | INFO     | __main__:home:140 - 启动程序 RO启动器
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/InfoPage.qml:166-->Debug: [192.168.10.20:54444,192.168.10.20:50020]
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/InfoPage.qml:121-->Debug: 日志服务IP已经改变 192.168.10.20:54444
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - ['192.168.10.20:54444', None]
+2025-11-28 16:33:37 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/InfoPage.qml:144-->Debug: 文件服务IP已经改变 192.168.10.20:50020
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - [None, '192.168.10.20:50020']
+2025-11-28 16:33:37 | INFO     | __main__:home:140 - 保存配置文件 config.yaml
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - file:///data/data/org.randorange.rostart/files/app/qml/Desktop.qml:116-->Debug: popup load success
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - getURLData: http://47.104.132.212:5006/api/appinfo
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - 状态码: 200
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - 响应头: [('date', 'Fri, 28 Nov 2025 08:33:36 GMT'), ('server', 'uvicorn'), ('content-length', '2522'), ('content-type', 'application/json')]
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - 解析后的 JSON 数据:
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - {
+  "code": 0,
+  "message": "成功",
+  "data": [
+    {
+      "id": "ROStart123154512a5ada6090de92ee1",
+      "name": "基础模板",
+      "author": "ROrange",
+      "description": "模板-小程序基础模板",
+      "version": "1.2",
+      "logo": "/static/ROStart123154512a5ada6090de92ee1/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart123154512a5ada6090de92ee1"
+    },
+    {
+      "id": "ROStart26e4a41b0bbf0f4b0dead18eb",
+      "name": "UI后端模板",
+      "author": "ROrange",
+      "description": "模板-支持FluentUI界面库，及Py后端",
+      "version": "1.2",
+      "logo": "/static/ROStart26e4a41b0bbf0f4b0dead18eb/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart26e4a41b0bbf0f4b0dead18eb"
+    },
+    {
+      "id": "ROStart6627347dd9bd1b63408c487db",
+      "name": "UI控件模板",
+      "author": "ROrange",
+      "description": "模板-使用FluentUI界面框架",
+      "version": "1.2",
+      "logo": "/static/ROStart6627347dd9bd1b63408c487db/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart6627347dd9bd1b63408c487db"
+    },
+    {
+      "id": "ROStart978dc4379bc8622a42c93e3b2",
+      "name": "APP四界面",
+      "author": "ROrange",
+      "description": "主流APP，四界面切换模板",
+      "version": "1.2",
+      "logo": "/static/ROStart978dc4379bc8622a42c93e3b2/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart978dc4379bc8622a42c93e3b2"
+    },
+    {
+      "id": "ROStarte1bd14c3d9a937a2dedc9ca2e",
+      "name": "相机示例",
+      "author": "ROrange",
+      "description": "支持显示相机中的画面",
+      "version": "1.1",
+      "logo": "/static/ROStarte1bd14c3d9a937a2dedc9ca2e/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStarte1bd14c3d9a937a2dedc9ca2e"
+    },
+    {
+      "id": "ROStartadfb548c2b0657288330ef3f2",
+      "name": "后端模板",
+      "author": "ROrange",
+      "description": "模板-支持Py后端",
+      "version": "1.1",
+      "logo": "/static/ROStartadfb548c2b0657288330ef3f2/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStartadfb548c2b0657288330ef3f2"
+    },
+    {
+      "id": "ROStart2dbde45369d11afb921c6c71f",
+      "name": "BLE开发",
+      "author": "ROrange",
+      "description": "低功耗蓝牙操作程序",
+      "version": "1.1",
+      "logo": "/static/ROStart2dbde45369d11afb921c6c71f/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStart2dbde45369d11afb921c6c71f"
+    },
+    {
+      "id": "ROStartd5f1c4a13b8b7b16530a521fa",
+      "name": "安卓功能操作",
+      "author": "ROrange",
+      "description": "PyToJava测试示例",
+      "version": "1.2",
+      "logo": "/static/ROStartd5f1c4a13b8b7b16530a521fa/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStartd5f1c4a13b8b7b16530a521fa"
+    },
+    {
+      "id": "ROStartb893547ebb326872a6e8364b7",
+      "name": "标题栏模板",
+      "author": "ROrange",
+      "description": "主页上面有标题栏的示例",
+      "version": "1.2",
+      "logo": "/static/ROStartb893547ebb326872a6e8364b7/logo.png",
+      "widget": "PySide6-QML",
+      "directory": "ROStartb893547ebb326872a6e8364b7"
+    }
+  ]
+}
+2025-11-28 16:33:37 | DEBUG    | __main__:home:131 - <class 'dict'>
+2025-11-28 16:46:43 | WARNING  | __main__:home:149 - None:0-->Warning: Retrying to obtain clipboard.
+2025-11-28 18:13:57 | DEBUG    | __main__:home:116 - add http log success
+2025-11-28 18:13:57 | INFO     | __main__:home:140 - 小程序启动
+2025-11-28 18:13:57 | DEBUG    | __main__:home:131 - get data 
+你是一名资深闲鱼服务卖家，专注于为程序员技术服务撰写高转化接单文案。请按照以下要求创作：
+1.  文案目标
+    - 将技术服务转化为普通客户能理解的实用解决方案
+    - 突出服务价值而非技术细节
+    - 建立可信度和专业感
+2.  内容要求
+    - 完全口语化表达，像日常对话一样自然
+    - 禁止使用任何表情符号
+    - 禁用词汇：专业、修复、性、第一、最、最新、远程、兼职、宝贝
+3.  结构要素
+    - 开头直击客户需求
+    - 中间展示服务优势
+    - 结尾引导咨询
+4.  风格偏好
+    - 务实可靠，避免夸张
+    - 可加入具体服务案例
+    - 强调沟通和售后保障
+5. 格式要求
+	- 生成markdown格式的文本
+        
+2025-11-28 18:13:57 | DEBUG    | __main__:home:131 - get data 
+你是一名资深闲鱼服务卖家，专注于为程序员技术服务撰写高转化接单文案。请按照以下要求创作：
+1.  文案目标
+    - 将技术服务转化为普通客户能理解的实用解决方案
+    - 突出服务价值而非技术细节
+    - 建立可信度和专业感
+2.  内容要求
+    - 完全口语化表达，像日常对话一样自然
+    - 禁止使用任何表情符号
+    - 禁用词汇：专业、修复、性、第一、最、最新、远程、兼职、宝贝
+3.  结构要素
+    - 开头直击客户需求
+    - 中间展示服务优势
+    - 结尾引导咨询
+4.  风格偏好
+    - 务实可靠，避免夸张
+    - 可加入具体服务案例
+    - 强调沟通和售后保障
+5. 格式要求
+	- 生成markdown格式的文本
+        
+2025-11-28 18:14:06 | DEBUG    | __main__:home:131 - user msg: Python开发软件界面，支持windows、linux、MacOS、安卓
+2025-11-28 18:14:06 | DEBUG    | __main__:home:131 - system prompt: 
+你是一名资深闲鱼服务卖家，专注于为程序员技术服务撰写高转化接单文案。请按照以下要求创作：
+1.  文案目标
+    - 将技术服务转化为普通客户能理解的实用解决方案
+    - 突出服务价值而非技术细节
+    - 建立可信度和专业感
+2.  内容要求
+    - 完全口语化表达，像日常对话一样自然
+    - 禁止使用任何表情符号
+    - 禁用词汇：专业、修复、性、第一、最、最新、远程、兼职、宝贝
+3.  结构要素
+    - 开头直击客户需求
+    - 中间展示服务优势
+    - 结尾引导咨询
+4.  风格偏好
+    - 务实可靠，避免夸张
+    - 可加入具体服务案例
+    - 强调沟通和售后保障
+5. 格式要求
+	- 生成markdown格式的文本
+        
+2025-11-28 18:14:06 | DEBUG    | __main__:home:131 - url https://api.deepseek.com/v1/chat/completions
+2025-11-28 18:14:06 | DEBUG    | __main__:home:131 - apikey sk-2086390449c5466ebe818d2282d3f9b3
+2025-11-28 18:14:06 | DEBUG    | __main__:home:131 - modelname deepseek-chat
+2025-11-28 18:14:06 | DEBUG    | __main__:home:131 - systemPrompt 
+你是一名资深闲鱼服务卖家，专注于为程序员技术服务撰写高转化接单文案。请按照以下要求创作：
+1.  文案目标
+    - 将技术服务转化为普通客户能理解的实用解决方案
+    - 突出服务价值而非技术细节
+    - 建立可信度和专业感
+2.  内容要求
+    - 完全口语化表达，像日常对话一样自然
+    - 禁止使用任何表情符号
+    - 禁用词汇：专业、修复、性、第一、最、最新、远程、兼职、宝贝
+3.  结构要素
+    - 开头直击客户需求
+    - 中间展示服务优势
+    - 结尾引导咨询
+4.  风格偏好
+    - 务实可靠，避免夸张
+    - 可加入具体服务案例
+    - 强调沟通和售后保障
+5. 格式要求
+	- 生成markdown格式的文本
+        
+2025-11-28 18:14:06 | DEBUG    | __main__:home:131 - userMsg Python开发软件界面，支持windows、linux、MacOS、安卓
+2025-11-28 18:14:15 | DEBUG    | __main__:home:131 - {"id":"5c8f778c-aa45-4e84-951b-608fa882d1b0","object":"chat.completion","created":1764324846,"model":"deepseek-chat","choices":[{"index":0,"message":{"role":"assistant","content":"# 让软件界面在多个系统都能顺畅运行\n\n不管你是用Windows电脑、Linux系统、MacBook还是安卓设备，我都能帮你把Python软件界面做好，确保在各个平台都能正常使用。\n\n**我能为你做的：**\n- 根据你的使用习惯设计简洁明了的操作界面\n- 确保软件在Windows、Linux、MacOS和安卓系统上表现一致\n- 处理不同系统间的兼容性问题，避免卡顿或闪退\n- 优化加载速度，提升使用体验\n\n**之前帮客户做过的例子：**\n有位朋友需要一款数据整理工具，要在公司Windows电脑和家里MacBook上都能用。我帮他做了个界面清晰的Python程序，现在他在两个系统间切换使用完全没问题，操作起来很顺手。\n\n**为什么找我：**\n我长期做这类跨系统界面开发，清楚各个平台的特性。做完后还会跟你确认使用效果，有问题直接联系我调整。\n\n需要了解具体怎么做，欢迎随时问我，我们可以聊聊你的具体需求。"},"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":215,"completion_tokens":207,"total_tokens":422,"prompt_tokens_details":{"cached_tokens":0},"prompt_cache_hit_tokens":0,"prompt_cache_miss_tokens":215},"system_fingerprint":"fp_ffc7281d48_prod0820_fp8_kvcache"}
+2025-11-28 18:14:15 | WARNING  | __main__:home:149 - # 让软件界面在多个系统都能顺畅运行
+
+不管你是用Windows电脑、Linux系统、MacBook还是安卓设备，我都能帮你把Python软件界面做好，确保在各个平台都能正常使用。
+
+**我能为你做的：**
+- 根据你的使用习惯设计简洁明了的操作界面
+- 确保软件在Windows、Linux、MacOS和安卓系统上表现一致
+- 处理不同系统间的兼容性问题，避免卡顿或闪退
+- 优化加载速度，提升使用体验
+
+**之前帮客户做过的例子：**
+有位朋友需要一款数据整理工具，要在公司Windows电脑和家里MacBook上都能用。我帮他做了个界面清晰的Python程序，现在他在两个系统间切换使用完全没问题，操作起来很顺手。
+
+**为什么找我：**
+我长期做这类跨系统界面开发，清楚各个平台的特性。做完后还会跟你确认使用效果，有问题直接联系我调整。
+
+需要了解具体怎么做，欢迎随时问我，我们可以聊聊你的具体需求。
+2025-11-28 18:14:15 | DEBUG    | __main__:home:131 - ai out # 让软件界面在多个系统都能顺畅运行
+
+不管你是用Windows电脑、Linux系统、MacBook还是安卓设备，我都能帮你把Python软件界面做好，确保在各个平台都能正常使用。
+
+**我能为你做的：**
+- 根据你的使用习惯设计简洁明了的操作界面
+- 确保软件在Windows、Linux、MacOS和安卓系统上表现一致
+- 处理不同系统间的兼容性问题，避免卡顿或闪退
+- 优化加载速度，提升使用体验
+
+**之前帮客户做过的例子：**
+有位朋友需要一款数据整理工具，要在公司Windows电脑和家里MacBook上都能用。我帮他做了个界面清晰的Python程序，现在他在两个系统间切换使用完全没问题，操作起来很顺手。
+
+**为什么找我：**
+我长期做这类跨系统界面开发，清楚各个平台的特性。做完后还会跟你确认使用效果，有问题直接联系我调整。
+
+需要了解具体怎么做，欢迎随时问我，我们可以聊聊你的具体需求。
+2025-11-28 18:18:41 | WARNING  | __main__:home:149 - None:0-->Warning: Retrying to obtain clipboard.

@@ -1,0 +1,10 @@
+{
+    "id": "ROStart123154512a5ada6090de92ee1",
+    "name": "基础模板",
+    "author": "ROrange",
+    "description": "模板-小程序基础模板",
+    "version": "1.2",
+    "roversion": "1.0.0",
+    "logo": "logo.png",
+    "widget": "PySide6-QML"
+}
