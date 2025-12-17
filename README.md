@@ -6,7 +6,7 @@
 [https://pan.quark.cn/s/4997433c27db](https://pan.quark.cn/s/4997433c27db)
 
 # 小程序代码
-
+MiniAPP目录下
 
 # 版本更新
 - 2.0.0 小程序版本发布
