@@ -3,6 +3,12 @@
 
 官网 [www.rostart.top](www.rostart.top)
 
+```
+![](images/8a5d873bb5551d2bc4182511245a186.jpg|100) ![](images/5248f2523d181baf971af529bfdceae.jpg) ![](images/微信图片_20251126120223.jpg) ![](images/微信图片_20251126120335.jpg)
+```
+
+<img src="images/8a5d873bb5551d2bc4182511245a186.jpg" width="200"> 
+
 # 下载链接
 夸克网盘
 [https://pan.quark.cn/s/4997433c27db](https://pan.quark.cn/s/4997433c27db)
@@ -16,3 +22,7 @@ MiniAPP目录下
 - 2.2.0 支持通过搜索下载服务器上的代码
 - 2.3.0 添加TTS模块
 - 2.4.0 修改基础API为28，可支持运行文件。添加openai及依赖库。
+
+# 交流群
+![[images/ea266d91-8e78-41ba-bcb6-490917d5d824.png]]![[images/微信群.jpg]]
+
