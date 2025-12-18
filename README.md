@@ -21,6 +21,4 @@ MiniAPP目录下
 
 # 交流群
 
-<center>
-  <img src="images/微信群.jpg" width="300"> <img src="images/ea266d91-8e78-41ba-bcb6-490917d5d824.png" width="300"> 
-</center>
+ <img src="images/微信群.jpg" width="300"> <img src="images/ea266d91-8e78-41ba-bcb6-490917d5d824.png" width="300">
