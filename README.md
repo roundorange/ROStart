@@ -3,11 +3,7 @@
 
 官网 [www.rostart.top](www.rostart.top)
 
-```
-![](images/8a5d873bb5551d2bc4182511245a186.jpg|100) ![](images/5248f2523d181baf971af529bfdceae.jpg) ![](images/微信图片_20251126120223.jpg) ![](images/微信图片_20251126120335.jpg)
-```
-
-<img src="images/8a5d873bb5551d2bc4182511245a186.jpg" width="200"> 
+<img src="images/8a5d873bb5551d2bc4182511245a186.jpg" width="200"> <img src="images/5248f2523d181baf971af529bfdceae.jpg" width="200"> <img src="images/微信图片_20251126120223.jpg" width="200"> <img src="images/微信图片_20251126120335.jpg" width="200"> 
 
 # 下载链接
 夸克网盘
