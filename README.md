@@ -20,5 +20,7 @@ MiniAPP目录下
 - 2.4.0 修改基础API为28，可支持运行文件。添加openai及依赖库。
 
 # 交流群
-![[images/ea266d91-8e78-41ba-bcb6-490917d5d824.png]]![[images/微信群.jpg]]
 
+<center>
+  <img src="images/微信群.jpg" width="300"> <img src="images/ea266d91-8e78-41ba-bcb6-490917d5d824.png" width="300"> 
+</center>
