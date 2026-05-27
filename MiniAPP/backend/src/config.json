@@ -1,0 +1,10 @@
+{
+    "id": "ROStartadfb548c2b0657288330ef3f2",
+    "name": "后端模板",
+    "author": "ROrange",
+    "description": "模板-支持Py后端",
+    "version": "4.0",
+    "roversion": "4.0.0",
+    "logo": "logo.png",
+    "widget": "PySide6-QML"
+}

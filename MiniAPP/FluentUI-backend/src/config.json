@@ -1,0 +1,10 @@
+{
+    "id": "ROStart26e4a41b0bbf0f4b0dead18eb",
+    "name": "UI后端模板",
+    "author": "ROrange",
+    "description": "模板-支持FluentUI界面库，及Py后端",
+    "version": "4.0",
+    "roversion": "1.0.0",
+    "logo": "logo.png",
+    "widget": "PySide6-QML"
+}
